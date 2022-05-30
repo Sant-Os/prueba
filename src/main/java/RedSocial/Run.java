@@ -15,12 +15,6 @@ public class Run {
      */
     public static void main(String[] args) {
         System.out.println("hola mundo");
-        System.out.println("prueba 2");
-        System.out.println("prueba 3");
-        System.out.println("prueba 4");
-        System.out.println("prueba 5");
-        System.out.println("prueba 6");
-
     }
     
 }
